@@ -4,7 +4,7 @@
 
 
 [![Status](https://github-readme-stats.vercel.app/api?username=L-CostaGabe&show_icons=true&theme=dracula)](https://github.com/L-CostaGabe)
-![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=L-CostaGabe&hide_progress=true)
+![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=L-CostaGabe)
 
 
 <div style="display: inline_block"><br>
