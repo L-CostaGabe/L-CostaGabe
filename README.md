@@ -3,7 +3,7 @@
 - 🌱 Estudando Java
 
 
-[![](https://github-readme-stats.vercel.app/api?username=L-CostaGabe&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=L-CostaGabe&show_icons=true&theme=dracula)](https://github.com/L-CostaGabe)
 
 
 <div style="display: inline_block"><br>
