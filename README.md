@@ -11,8 +11,7 @@ Interessado em boas práticas de codificação, resolução de problemas e versi
 - Estruturas de Dados 📚
  
 
-
-[![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=L-CostaGabe&show_icons=true&theme=dracula)](https://github.com/L-CostaGabe)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=L-CostaGabe&show_icons=true&theme=dracula&cache_seconds=3600)](https://github.com/L-CostaGabe)
 [![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=L-CostaGabe&theme=dracula)
 
 ## Linguagens
