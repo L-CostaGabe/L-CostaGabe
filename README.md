@@ -1,7 +1,15 @@
-## Olá, sou o Gabriel Lima👋
+## Sobre mim 👨‍💻
+Graduando em Ciência da Computação, com foco em desenvolvimento de software.
+Atualmente me aprofundando em Java e Programação Orientada a Objetos através do Bootcamp Santander.
+Interessado em boas práticas de codificação, resolução de problemas e versionamento com Git.
 
-- 🌱 Estudando Java
-- 
+## Tecnologias que estou estudando 🚀
+
+- Java ☕
+- Git & GitHub 🔧
+- Lógica de Programação 🧠
+- Estruturas de Dados 📚
+ 
 
 
 [![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=L-CostaGabe&show_icons=true&theme=dracula)](https://github.com/L-CostaGabe)
@@ -9,7 +17,7 @@
 
 ## Linguagens
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img align="center" alt="Gabe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <img align="center" alt="Gabe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
