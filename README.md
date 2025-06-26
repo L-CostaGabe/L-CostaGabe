@@ -9,10 +9,6 @@ Interessado em boas práticas de codificação, resolução de problemas e versi
 - Git & GitHub 🔧
 - Lógica de Programação 🧠
 - Estruturas de Dados 📚
- 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=L-CostaGabe&show_icons=true&theme=dracula&cache_seconds=3600)](https://github.com/L-CostaGabe)
-[![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=L-CostaGabe&layout=compact&theme=dracula&cache_seconds=36)](https://github.com/L-CostaGabe)
 
 
 ## Linguagens
