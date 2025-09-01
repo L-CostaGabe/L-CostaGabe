@@ -1,6 +1,6 @@
 ## Sobre mim 👨‍💻
 Graduando em Ciência da Computação, com foco em desenvolvimento de software.
-Atualmente me aprofundando em Java e Programação Orientada a Objetos através do Bootcamp Santander.
+Atualmente me aprofundando em Java e Programação Orientada a Objetos através de Bootcamps.
 Interessado em boas práticas de codificação, resolução de problemas e versionamento com Git.
 
 ## Tecnologias que estou estudando 🚀
