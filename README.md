@@ -5,7 +5,7 @@ Atualmente me aprofundando em **Java** e **POO**, praticando resolução de prob
 
 ---
 
-## 🚀 Tecnologias em estudo
+## 🚀 Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
