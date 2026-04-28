@@ -7,13 +7,13 @@ Atualmente me aprofundando em **Java** e **POO**, praticando resolução de prob
 
 ## 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p align="left">
+  <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+  <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
 
 
 ---
